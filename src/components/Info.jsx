@@ -1,4 +1,4 @@
-import { profilePic } from "src/assets/img/profile-pic2.jpg"
+import  profilePic  from "../assets/img/profile-pic2.jpg"
 
 export default function Info() {
     return(
