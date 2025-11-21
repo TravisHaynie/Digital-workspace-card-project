@@ -9,10 +9,16 @@ const root = createRoot(document.getElementById("root"));
 function Main() {
     return(
         <>
-        <Info />
-        <About />
-        <Interests />
-        <Footer />
+        <div className="card">
+            <Info />
+            <main className="padding">
+                <About />
+                <Interests />
+            </main>
+            <footer className="footer-container">
+                <Footer />
+            </footer>
+        </div>
         </>
     )
 }

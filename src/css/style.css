@@ -1,0 +1,92 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    min-height: 100vh;
+    font-family: "Inter", sans-serif;
+}
+
+.card {
+    min-width: 350px;
+    max-width: 350px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+/* universal css */
+.margin {
+    margin: 0px;
+}
+
+.width {
+    width: 30px;
+}
+
+.footer-logo-padding {
+     padding: 5px;
+}
+
+.padding {
+    padding: 30px;
+}
+
+/* header css */
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.profession {
+    font-size: 12.8px;
+}
+
+.website {
+    font-size: 10.24px;
+}
+
+.button-container {}
+
+/* About Css */
+
+
+.about-title {
+    font-size: 20px;
+}
+
+.about-summary {
+    font-size: 14px;
+}
+
+/* interest css */
+
+.interest-title {
+    font-size: 20px;
+}
+
+.interest-summary {
+    font-size: 14px;
+}
+
+/* Footer Css */
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.instagram {
+background-color: gray;
+}
