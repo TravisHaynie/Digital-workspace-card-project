@@ -5,13 +5,15 @@ body {
     margin: auto;
     min-height: 100vh;
     font-family: "Inter", sans-serif;
+    background-color: #23252C;
 }
 
 .card {
     min-width: 350px;
     max-width: 350px;
-    border: 2px solid;
-    border-radius: 20px;
+    border-radius: 10px;
+    background-color: #1A1B21;
+    color: white;
 }
 
 /* universal css */
@@ -19,16 +21,24 @@ body {
     margin: 0px;
 }
 
+.margin-top-btm {
+    margin: 10px 0px;
+}
+
 .width {
     width: 30px;
 }
 
-.footer-logo-padding {
-     padding: 5px;
+.padding {
+    padding: 30px 42px;
 }
 
-.padding {
-    padding: 30px;
+.btn-padding {
+    padding: 10px 45px;
+}
+
+.center {
+    text-align: center;
 }
 
 /* header css */
@@ -40,7 +50,7 @@ body {
 
 .profile-img {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 10px 10px 0px 0px;
 }
 
 .name {
@@ -50,13 +60,28 @@ body {
 
 .profession {
     font-size: 12.8px;
+    color: #F3BF99;
 }
 
 .website {
     font-size: 10.24px;
 }
 
-.button-container {}
+.header-padding {
+    padding: 30px 0px 0px;
+}
+
+.linkedln-btn {
+    margin-left: 20px;
+    padding-inline: 37px;
+    border-radius: 6px;
+    border: none;
+}
+
+.email-btn {
+    border-radius: 6px;
+    border: none;
+}
 
 /* About Css */
 
@@ -85,8 +110,11 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    background-color: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 25px 50px;
 }
 
 .instagram {
-background-color: gray;
+    background-color: gray;
 }
