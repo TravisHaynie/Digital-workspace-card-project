@@ -9,8 +9,8 @@ body {
 }
 
 .card {
-    min-width: 350px;
-    max-width: 350px;
+    min-width: 325px;
+    max-width: 325px;
     border-radius: 10px;
     background-color: #1A1B21;
     color: white;
@@ -30,11 +30,11 @@ body {
 }
 
 .padding {
-    padding: 30px 42px;
+    padding: 30px 35px;
 }
 
 .btn-padding {
-    padding: 10px 34px;
+    padding: 10px 31px;
 }
 
 .center {
@@ -93,7 +93,7 @@ a {
 
 .linkedln-btn {
     margin-left: 20px;
-    padding-inline: 25.5px;
+    padding-inline: 22.5px;
     border-radius: 6px;
     border: none;
     background-color: #5093E2;
@@ -113,21 +113,21 @@ a {
 
 
 .about-title {
-    font-size: 19px;
+    font-size: 16px;
 }
 
 .about-summary {
-    font-size: 13px;
+    font-size: 10.24px;
 }
 
 /* interest css */
 
 .interest-title {
-    font-size: 19px;
+    font-size: 16px;
 }
 
 .interest-summary {
-    font-size: 13px;
+    font-size: 10.24px;
 }
 
 /* Footer Css */
