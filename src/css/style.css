@@ -34,11 +34,17 @@ body {
 }
 
 .btn-padding {
-    padding: 10px 45px;
+    padding: 10px 34px;
 }
 
 .center {
     text-align: center;
+}
+
+.img-size {
+    width: 14px;
+    height: 12px;
+    margin-right:10px;
 }
 
 /* header css */
@@ -71,16 +77,35 @@ body {
     padding: 30px 0px 0px;
 }
 
+a {
+    text-decoration: none;
+        margin-top: 2px;
+}
+
+.color-black {
+    color: black;
+}
+
+.color-white {
+    color: white;
+}
+
 .linkedln-btn {
     margin-left: 20px;
-    padding-inline: 37px;
+    padding-inline: 25.5px;
     border-radius: 6px;
     border: none;
+    background-color: #5093E2;
 }
 
 .email-btn {
     border-radius: 6px;
     border: none;
+}
+
+.span {
+    display: flex;
+    align-items: center;
 }
 
 /* About Css */
