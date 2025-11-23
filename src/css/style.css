@@ -44,7 +44,7 @@ body {
 .img-size {
     width: 14px;
     height: 12px;
-    margin-right:10px;
+    margin-right: 10px;
 }
 
 /* header css */
@@ -71,6 +71,7 @@ body {
 
 .website {
     font-size: 10.24px;
+    margin: 10px 0px 20px;
 }
 
 .header-padding {
@@ -79,7 +80,7 @@ body {
 
 a {
     text-decoration: none;
-
+    margin-top: 1px;
 }
 
 .color-black {
@@ -112,21 +113,21 @@ a {
 
 
 .about-title {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .about-summary {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* interest css */
 
 .interest-title {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .interest-summary {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* Footer Css */
@@ -137,7 +138,7 @@ a {
     justify-content: space-around;
     background-color: #161619;
     border-radius: 0px 0px 10px 10px;
-    padding: 25px 50px;
+    padding: 25px 55px;
 }
 
 .instagram {

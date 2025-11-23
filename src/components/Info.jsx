@@ -9,7 +9,7 @@ export default function Info() {
             <div className="header-padding center">
                 <h1 className="name margin">Travis Haynie</h1>
                 <p className="profession margin">Frontend Developer</p>
-                <p className="website margin margin-top-btm">Travihay.website</p>
+                <p className="website margin">Travihay.website</p>
                 <button className="email-btn btn-padding"><span className="span"><img className="img-size" src={email}></img><a href="mailto:travihay@gmail.com" className="color-black">Email</a></span></button>
                 <button className="linkedln-btn btn-padding"><span className="span"><img  className="img-size" src={linkdln}></img><a href="https://www.linkedin.com/in/travis-haynie" className="color-white">LinkedIn</a></span></button>
             </div>
