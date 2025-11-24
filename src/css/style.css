@@ -9,11 +9,12 @@ body {
 }
 
 .card {
-    min-width: 325px;
-    max-width: 325px;
+    min-width: 317px;
+    max-width: 317px;
     border-radius: 10px;
     background-color: #1A1B21;
     color: white;
+    box-shadow:0px 3px 5px 0px#02020263;
 }
 
 /* universal css */
@@ -34,7 +35,7 @@ body {
 }
 
 .btn-padding {
-    padding: 10px 31px;
+    padding: 10px 29px;
 }
 
 .center {
@@ -93,7 +94,7 @@ a {
 
 .linkedln-btn {
     margin-left: 20px;
-    padding-inline: 22.5px;
+    padding-inline: 20.5px;
     border-radius: 6px;
     border: none;
     background-color: #5093E2;
