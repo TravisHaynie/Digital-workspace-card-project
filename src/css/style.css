@@ -100,6 +100,10 @@ a {
     background-color: #5093E2;
 }
 
+.link-border {
+    border-radius:1px;
+}
+
 .email-btn {
     border-radius: 6px;
     border: none;
